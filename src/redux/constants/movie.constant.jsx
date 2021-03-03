@@ -1,0 +1,4 @@
+export const GET_MOVIE_LIST = 'GET_MOVIE_LIST';
+export const GET_MOVIE_DETAIL = 'GET_MOVIE_DETAIL';
+export const GET_USER_LIST = 'GET_USER_LIST';
+export const POST_ACCOUNT = 'POST_ACCOUNT';
